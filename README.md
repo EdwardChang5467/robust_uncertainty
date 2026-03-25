@@ -2,7 +2,7 @@
 
 This repository contains the code implementation and relevant data for the paper titled "**Robust Uncertainty Quantification for Factual Generation of Large Language Models**," which was accepted at **IJCNN 2025**. It provides a pipeline implementation for generating trap questions in multi-fact generation for LLMs and a robust uncertainty quantification method **RU** for multi-fact generation that considers these traps. The proposed approach achieves an average improvement of 0.1-0.2 in ROCAUC values and correlation scores compared to baseline methods, offering new insights and directions for uncertainty quantification in multi-fact generation by LLMs.
 
-
+The paper can be accessed through doi: 10.1109/IJCNN64981.2025.11227634.
 
 # 2. Repository structure
 
